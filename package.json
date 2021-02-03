@@ -2,6 +2,7 @@
   "name": "reduxcoursaz",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/ThibL/compteur_redux",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -14,6 +15,7 @@
     "redux": "^4.0.5"
   },
   "scripts": {
+    "deploy": "npm run buil && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
