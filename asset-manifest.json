@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ThibL/compteur_redux/static/css/main.d0386d83.chunk.css",
+    "main.js": "/ThibL/compteur_redux/static/js/main.1c543eba.chunk.js",
+    "main.js.map": "/ThibL/compteur_redux/static/js/main.1c543eba.chunk.js.map",
+    "runtime-main.js": "/ThibL/compteur_redux/static/js/runtime-main.57185ba5.js",
+    "runtime-main.js.map": "/ThibL/compteur_redux/static/js/runtime-main.57185ba5.js.map",
+    "static/js/2.fa81706f.chunk.js": "/ThibL/compteur_redux/static/js/2.fa81706f.chunk.js",
+    "static/js/2.fa81706f.chunk.js.map": "/ThibL/compteur_redux/static/js/2.fa81706f.chunk.js.map",
+    "index.html": "/ThibL/compteur_redux/index.html",
+    "static/css/main.d0386d83.chunk.css.map": "/ThibL/compteur_redux/static/css/main.d0386d83.chunk.css.map",
+    "static/js/2.fa81706f.chunk.js.LICENSE.txt": "/ThibL/compteur_redux/static/js/2.fa81706f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57185ba5.js",
+    "static/js/2.fa81706f.chunk.js",
+    "static/css/main.d0386d83.chunk.css",
+    "static/js/main.1c543eba.chunk.js"
+  ]
+}
